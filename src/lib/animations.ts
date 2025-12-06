@@ -1,3 +1,4 @@
+// Animation variants for Framer Motion
 export const motionVariants = {
   fadeIn: {
     initial: { opacity: 0, y: 20 },
