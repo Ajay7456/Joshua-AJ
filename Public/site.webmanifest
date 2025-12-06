@@ -1,0 +1,31 @@
+{
+  "name": "Joshua Afuwape | Web Developer & Designer",
+  "short_name": "Joshua Afuwape",
+  "description": "Multidisciplinary developer blending design and code to build engaging digital experiences.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#0a0a14",
+  "background_color": "#0a0a14",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait"
+}
