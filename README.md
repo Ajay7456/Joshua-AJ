@@ -1,6 +1,6 @@
 # 🚀 Joshua Afuwape Portfolio
 
-A modern, animated portfolio website for **Joshua Afuwape** - Web Developer, Graphic Designer, UI/UX Designer, and Full Stack Developer.
+I created a modern, animated portfolio website for Myself as a Web Developer, Graphic Designer, UI/UX Designer, and Full Stack Developer.
 
 ## ✨ Features
 - 🎨 **Modern SynthWave Design** - Neon accents with dark theme
@@ -18,26 +18,3 @@ A modern, animated portfolio website for **Joshua Afuwape** - Web Developer, Gra
 - **Animations:** Framer Motion, GSAP
 - **Icons:** Lucide React
 - **Images:** Next.js Image Optimization
-
-## 📞 Contact Integration
-1. **WhatsApp:** +234 906 197 2103
-2. **Email:** ajay745626@gmail.com
-3. **GitHub:** [@Ajay7456](https://github.com/Ajay7456)
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
-### Installation
-```bash
-# Clone repository
-git clone <repository-url>
-cd joshua-portfolio
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
