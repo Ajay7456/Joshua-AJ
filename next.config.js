@@ -16,6 +16,10 @@ const nextConfig = {
   },
   swcMinify: true,
   compress: true,
+  // Fix for stack size error
+  experimental: {
+    optimizeCss: true,
+  },
 }
 
 module.exports = nextConfig
