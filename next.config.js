@@ -16,10 +16,7 @@ const nextConfig = {
   },
   swcMinify: true,
   compress: true,
-  // Fix for stack size error
-  experimental: {
-    optimizeCss: true,
-  },
+  // Remove experimental.optimizeCss as it's causing critters module error
 }
 
 module.exports = nextConfig
